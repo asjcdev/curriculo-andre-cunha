@@ -17,6 +17,6 @@ Busco uma oportunidade de estágio na área de tecnologia, com foco em **program
 ## 🔗 Contato
 
 - 📧 andre.ws@msn.com  
-- 📱 (21) 96439-7876  
+- 📱 (21) 00000-7876
 - 🔗 [LinkedIn](https://linkedin.com/in/asjcdev)  
 - 💻 [GitHub](https://github.com/asjcdev)
